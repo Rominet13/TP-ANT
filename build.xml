@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<project name="testAnt" default="build" basedir=".">
-<description>This is a simple test project.<\description>
+<project name="testAnt1" default="build" basedir=".">
+<description>1ère utilisation de ANT.<\description>
 </project>
