@@ -2,4 +2,10 @@
 
 <project name="testAnt1" default="build" basedir=".">
 <description>1ère utilisation de ANT.<\description>
+<target name="checkDependencies"
+description="Check if dependencies are satisfied">
+<\target>
+<target name="build" description="Build the application"
+depends="checkDependencies" if="src.available">
+<\target>
 </project>
