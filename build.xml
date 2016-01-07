@@ -7,12 +7,6 @@
                <target name="build" description="Build the application"
                        depends="checkDependencies" if="src.available"> 
                   <\target> 
-                  </project> lien gg
-                  https://docs.google.com/document/d/1wBAVk973rRa85wIfhCxcwKa0yS63FlSud1ky9D1EhCM/edit?usp=sharing
-                  Attention on va pas le laisser ... 
-                  bonjour et bonne annee, et bonne sante
-
-
-				  Oulalalalala y a du taff !!! --'
-                  bonjour et bonne annee
+                  </project> 
+                
 
